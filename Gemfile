@@ -63,4 +63,4 @@ group :test do
   gem 'faker'
 end
 
-gem "json", "= 2.10.2"
+gem "json", "3.1.0"
